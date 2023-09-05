@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
   Perkenalkan nama saya Andi Salam Syahputra
 
-  Saya seorang **software enginer** di dream Corp 🎆 Amiin !!
-
   Ya portofolio ini baru saja saya buat pada tanggal 17 Agustus 2023
-  Saya kini sedang aktif mengikuti kegiatan bangkit Academy
+  Pada 14 Agustus 2023 - 24 januari 2024 Saya aktif mengikuti program kegiatan grow with google bangkit Academy GoTO Google Traveloka 
 
   Saya bercita cita ingin jadi seorang software enginer yang baik dan juga ahli dibidang saya
 
