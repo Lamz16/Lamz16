@@ -25,10 +25,9 @@ Here are some ideas to get you started:
   Bahasa yang sedang saya dalami sekarang adalah 
    * Kotlin
    * Java
-  
 <p align="left">
-<a href="https://github.com/Lamz16">
+<a href="https://github.com/lamz16">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lamz16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamz16layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamz16&layout=compact&layout=compact&theme=algolia"/>
 </a>
-</p
+</p>
