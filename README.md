@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=Lamz16y&color=brightgreen)
 
 <!--
 **Lamz16/Lamz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
