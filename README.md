@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...-->
 
-  Perkenalkan nama saya Andi Salam Syahputra
+   Introducing my name Andi Salam Syahputra
 
-  Ya portofolio ini baru saja saya buat pada tanggal 17 Agustus 2023
-  Pada 14 Agustus 2023 - 24 januari 2024 Saya aktif mengikuti program kegiatan grow with google bangkit Academy GoTO Google Traveloka 
+  I aspire to be a good software engineer and also an expert in my field. I have a high enthusiasm in the IT field, especially in mobile application development. I have loved programming since I graduated from high school. That made me finally take a college course in Information Systems.
+  Not only that, I also have several hobbies such as swimming, playing video games, and hiking.
+  
 
-  Saya bercita cita ingin jadi seorang software enginer yang baik dan juga ahli dibidang saya
-
-  Bahasa yang sedang saya dalami sekarang adalah 
+  The languages I am currently studying are 
    * Kotlin
    * Java
+
 
 
 ### Tech Stack
