@@ -45,7 +45,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamz16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-🎵 Now playing:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hzT1sZcmbZw?si=PL9IBBL4HP5MiUQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
