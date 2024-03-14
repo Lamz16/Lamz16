@@ -45,3 +45,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamz16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+🎵 Now playing:
+[![Now Playing](https://spotify-now-playing-coral.vercel.app/api/spotify)](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G?si=d2e053c62dff43e9)
+
+
