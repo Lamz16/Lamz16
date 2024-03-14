@@ -47,6 +47,5 @@ Here are some ideas to get you started:
 </p>
 
 🎵 Now playing:
-[![Now Playing](https://spotify-now-playing-coral.vercel.app/api/spotify)](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G?si=d2e053c62dff43e9)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzT1sZcmbZw?si=PL9IBBL4HP5MiUQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
