@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android Development and web development
 
 - 📫 How to reach me: andiku0755@gmail.com
+- Check my Portfolio : https://lamz16.github.io/Portofolio/
 
 <!--- 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
