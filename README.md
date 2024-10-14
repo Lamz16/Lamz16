@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   The languages I am currently studying are 
    * Kotlin
    * Java
+   * Dart
 
 
 
