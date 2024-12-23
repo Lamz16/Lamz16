@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
 <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://dart.dev/assets/shared/dart/icon/64.png" /></a>
 <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /></a>
+<a href="https://go.dev/"><img align="left" alt="Go" title="Go (Golang)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /></a>
   <br>
   <br>
   
