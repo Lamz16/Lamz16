@@ -2,50 +2,38 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lamz16y&color=brightgreen)
 
-Here are some ideas to get you started:
+> **Hi, I’m Andi Salam Syahputra**  
+> I aspire to be a good software engineer and an expert in my field.  
+> I’m passionate about mobile application development, especially Android & cross-platform.  
+> I have loved programming since high school, which led me to study Information Systems.  
+> Outside of coding, I enjoy swimming, video games, and hiking.
 
+- 🌱 I’m currently learning Android Development and Web Development
+- 📫 Reach me at: **andiku0755@gmail.com**
+- 🌐 [Check my Portfolio](https://portfolio-andi.web.app/)
 
-- 🌱 I’m currently learning Android Development and web development
+---
 
-- 📫 How to reach me: andiku0755@gmail.com
-- Check my Portfolio : https://portfolio-andi.web.app/
+### 🛠️ Tech Stack
 
-<!--- 😄 Pronouns: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...-->
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+<a href="#"><img align="left" alt="Dart" title="Dart" width="30px" src="https://dart.dev/assets/shared/dart/icon/64.png"/></a>
+<a href="#"><img align="left" alt="Flutter" title="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/></a>
+<a href="#"><img align="left" alt="Swift" title="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/></a>
+<a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
+<a href="#"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/></a>
+<a href="#"><img align="left" alt="NextJS" title="NextJS" width="30px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"/></a>
+<a href="#"><img align="left" alt="MySQL" title="MySQL" width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"/></a>
 
-   Introducing my name Andi Salam Syahputra
+<br><br>
 
-  I aspire to be a good software engineer and also an expert in my field. I have a high enthusiasm in the IT field, especially in mobile application development. I have loved programming since I graduated from high school. That made me finally take a college course in Information Systems.
-  Not only that, I also have several hobbies such as swimming, playing video games, and hiking.
-  
+---
 
-  The languages I am currently studying are 
-   * Kotlin
-   * Java
-   * Dart
+### 📊 GitHub Stats
 
-
-
-### Tech Stack
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-<a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-<a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
-<a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://dart.dev/assets/shared/dart/icon/64.png" /></a>
-<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /></a>
-<a href="https://go.dev/"><img align="left" alt="Go" title="Go (Golang)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /></a>
-<a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" /></a>
-  <br>
-  <br>
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/Lamz16">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lamz16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lamz16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lamz16&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
