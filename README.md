@@ -35,5 +35,5 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lamz16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lamz16)](https://github.com/anuraghazra/github-readme-stats)
+  ![Andi Salam Syahputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamz16&show_icons=true&theme=radical)
 </p>
