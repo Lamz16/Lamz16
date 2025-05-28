@@ -37,6 +37,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lamz16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamz16&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamz16&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Andi Salam Syahputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamz16&show_icons=true&theme=radical)
