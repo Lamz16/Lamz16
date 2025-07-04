@@ -26,7 +26,6 @@
 <a href="#"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/></a>
 <a href="#"><img align="left" alt="NextJS" title="NextJS" width="30px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"/></a>
 <a href="#"><img align="left" alt="MySQL" title="MySQL" width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"/></a>
-
 <br><br>
 
 ---
