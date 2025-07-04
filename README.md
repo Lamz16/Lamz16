@@ -32,6 +32,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lamz16&layout=compact&langs_count=8&theme=cobalt"/>
 </p>
