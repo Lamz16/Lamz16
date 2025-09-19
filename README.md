@@ -2,8 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lamz16y&color=brightgreen)
 
-![GitHub Contributions](https://badgen.net/badge/Contributions/Total?icon=github)
-
 > **Hi, I’m Andi Salam Syahputra**  
 > I aspire to be a good software engineer and an expert in my field.  
 > I’m passionate about mobile application development, especially Android & cross-platform.  
