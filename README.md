@@ -31,7 +31,7 @@
 <a href="#"><img align="left" alt="NextJS" title="NextJS" width="30px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"/></a>
 <a href="#"><img align="left" alt="MySQL" title="MySQL" width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"/></a>
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></a>
-<a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/></a>
+<a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/></a>
 <a href="#"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/></a>
 <br><br>
 
