@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning Android Development and Web Development
 - 📫 Reach me at: **andiku0755@gmail.com**
-- 🌐 [Check my Portfolio](https://portfolio-andi.web.app/)
 
 ---
 
