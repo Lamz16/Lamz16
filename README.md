@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Lamz16y&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Lamz16y&color=blue&style=for-the-badge&base=10000)
 
 > **Hi, I’m Andi Salam Syahputra**  
 > I aspire to be a good software engineer and an expert in my field.  
